@@ -1,12 +1,8 @@
 +++
-date = '2025-03-04T15:58:35+01:00'
-draft = false
+date = '2025-03-04T16:37:37+01:00'
+draft = true
 title = 'Jungle Book'
 +++
----
-title: "Introducing Jungle-Book: Your Companion for European Wilderness Exploration"
-date: 2025-03-04
----
 
 Embarking on adventures through Europe's lush forests and ancient woodlands has never been more exciting with **Jungle-Book**, a mobile application designed to enrich your wilderness experiences. Inspired by the concept of peak-hunting apps, Jungle-Book offers a unique platform tailored for explorers of Europe's diverse jungles.
 
